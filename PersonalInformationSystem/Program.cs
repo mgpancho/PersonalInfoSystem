@@ -92,7 +92,7 @@
                     }
                     catch
                     {
-                        Console.WriteLine("Please enter a valid credentials!\n\n");
+                        Console.WriteLine("Please enter a valid input!\n\n");
                         invalidInput = 0;
                     }
 
