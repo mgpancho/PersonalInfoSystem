@@ -1,0 +1,14 @@
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\bin\Debug\net8.0\PersonalInformationSystem.exe
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\bin\Debug\net8.0\PersonalInformationSystem.deps.json
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\bin\Debug\net8.0\PersonalInformationSystem.runtimeconfig.json
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\bin\Debug\net8.0\PersonalInformationSystem.dll
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\bin\Debug\net8.0\PersonalInformationSystem.pdb
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\obj\Debug\net8.0\PersonalInformationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\obj\Debug\net8.0\PersonalInformationSystem.AssemblyInfoInputs.cache
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\obj\Debug\net8.0\PersonalInformationSystem.AssemblyInfo.cs
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\obj\Debug\net8.0\PersonalInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\obj\Debug\net8.0\PersonalInformationSystem.dll
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\obj\Debug\net8.0\refint\PersonalInformationSystem.dll
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\obj\Debug\net8.0\PersonalInformationSystem.pdb
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\obj\Debug\net8.0\PersonalInformationSystem.genruntimeconfig.cache
+C:\Users\BFI\Desktop\PersonalInformationSystem\PersonalInformationSystem\obj\Debug\net8.0\ref\PersonalInformationSystem.dll
